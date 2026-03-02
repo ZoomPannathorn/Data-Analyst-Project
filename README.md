@@ -1,4 +1,4 @@
-# Fraud & Mule Transaction Analysis Dashboard
+# Scam-Induced Transaction Detection
 
 ## 📊 Project Overview
 This project analyzes financial transaction data to identify mule transaction behavior and fraud risk patterns. 
